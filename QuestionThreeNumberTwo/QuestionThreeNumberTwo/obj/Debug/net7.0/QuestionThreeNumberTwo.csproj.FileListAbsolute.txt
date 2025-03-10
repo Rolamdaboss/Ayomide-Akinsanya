@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberTwo\QuestionThreeNumberTwo\bin\Debug\net7.0\QuestionThreeNumberTwo.exe
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberTwo\QuestionThreeNumberTwo\bin\Debug\net7.0\QuestionThreeNumberTwo.deps.json
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberTwo\QuestionThreeNumberTwo\bin\Debug\net7.0\QuestionThreeNumberTwo.runtimeconfig.json
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberTwo\QuestionThreeNumberTwo\bin\Debug\net7.0\QuestionThreeNumberTwo.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberTwo\QuestionThreeNumberTwo\bin\Debug\net7.0\QuestionThreeNumberTwo.pdb
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberTwo\QuestionThreeNumberTwo\obj\Debug\net7.0\QuestionThreeNumberTwo.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberTwo\QuestionThreeNumberTwo\obj\Debug\net7.0\QuestionThreeNumberTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberTwo\QuestionThreeNumberTwo\obj\Debug\net7.0\QuestionThreeNumberTwo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberTwo\QuestionThreeNumberTwo\obj\Debug\net7.0\QuestionThreeNumberTwo.AssemblyInfo.cs
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberTwo\QuestionThreeNumberTwo\obj\Debug\net7.0\QuestionThreeNumberTwo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberTwo\QuestionThreeNumberTwo\obj\Debug\net7.0\QuestionThreeNumberTwo.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberTwo\QuestionThreeNumberTwo\obj\Debug\net7.0\refint\QuestionThreeNumberTwo.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberTwo\QuestionThreeNumberTwo\obj\Debug\net7.0\QuestionThreeNumberTwo.pdb
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberTwo\QuestionThreeNumberTwo\obj\Debug\net7.0\QuestionThreeNumberTwo.genruntimeconfig.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberTwo\QuestionThreeNumberTwo\obj\Debug\net7.0\ref\QuestionThreeNumberTwo.dll

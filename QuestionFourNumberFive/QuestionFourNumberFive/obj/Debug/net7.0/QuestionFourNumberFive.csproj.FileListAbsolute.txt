@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberFive\QuestionFourNumberFive\bin\Debug\net7.0\QuestionFourNumberFive.exe
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberFive\QuestionFourNumberFive\bin\Debug\net7.0\QuestionFourNumberFive.deps.json
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberFive\QuestionFourNumberFive\bin\Debug\net7.0\QuestionFourNumberFive.runtimeconfig.json
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberFive\QuestionFourNumberFive\bin\Debug\net7.0\QuestionFourNumberFive.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberFive\QuestionFourNumberFive\bin\Debug\net7.0\QuestionFourNumberFive.pdb
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberFive\QuestionFourNumberFive\obj\Debug\net7.0\QuestionFourNumberFive.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberFive\QuestionFourNumberFive\obj\Debug\net7.0\QuestionFourNumberFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberFive\QuestionFourNumberFive\obj\Debug\net7.0\QuestionFourNumberFive.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberFive\QuestionFourNumberFive\obj\Debug\net7.0\QuestionFourNumberFive.AssemblyInfo.cs
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberFive\QuestionFourNumberFive\obj\Debug\net7.0\QuestionFourNumberFive.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberFive\QuestionFourNumberFive\obj\Debug\net7.0\QuestionFourNumberFive.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberFive\QuestionFourNumberFive\obj\Debug\net7.0\refint\QuestionFourNumberFive.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberFive\QuestionFourNumberFive\obj\Debug\net7.0\QuestionFourNumberFive.pdb
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberFive\QuestionFourNumberFive\obj\Debug\net7.0\QuestionFourNumberFive.genruntimeconfig.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberFive\QuestionFourNumberFive\obj\Debug\net7.0\ref\QuestionFourNumberFive.dll

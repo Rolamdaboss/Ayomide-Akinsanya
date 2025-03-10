@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberThree\QuestionThreeNumberThree\bin\Debug\net7.0\QuestionThreeNumberThree.exe
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberThree\QuestionThreeNumberThree\bin\Debug\net7.0\QuestionThreeNumberThree.deps.json
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberThree\QuestionThreeNumberThree\bin\Debug\net7.0\QuestionThreeNumberThree.runtimeconfig.json
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberThree\QuestionThreeNumberThree\bin\Debug\net7.0\QuestionThreeNumberThree.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberThree\QuestionThreeNumberThree\bin\Debug\net7.0\QuestionThreeNumberThree.pdb
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberThree\QuestionThreeNumberThree\obj\Debug\net7.0\QuestionThreeNumberThree.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberThree\QuestionThreeNumberThree\obj\Debug\net7.0\QuestionThreeNumberThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberThree\QuestionThreeNumberThree\obj\Debug\net7.0\QuestionThreeNumberThree.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberThree\QuestionThreeNumberThree\obj\Debug\net7.0\QuestionThreeNumberThree.AssemblyInfo.cs
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberThree\QuestionThreeNumberThree\obj\Debug\net7.0\QuestionThreeNumberThree.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberThree\QuestionThreeNumberThree\obj\Debug\net7.0\QuestionThreeNumberThree.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberThree\QuestionThreeNumberThree\obj\Debug\net7.0\refint\QuestionThreeNumberThree.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberThree\QuestionThreeNumberThree\obj\Debug\net7.0\QuestionThreeNumberThree.pdb
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberThree\QuestionThreeNumberThree\obj\Debug\net7.0\QuestionThreeNumberThree.genruntimeconfig.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberThree\QuestionThreeNumberThree\obj\Debug\net7.0\ref\QuestionThreeNumberThree.dll

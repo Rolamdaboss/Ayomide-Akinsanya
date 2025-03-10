@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberFive\QuestionThreeNumberFive\bin\Debug\net7.0\QuestionThreeNumberFive.exe
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberFive\QuestionThreeNumberFive\bin\Debug\net7.0\QuestionThreeNumberFive.deps.json
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberFive\QuestionThreeNumberFive\bin\Debug\net7.0\QuestionThreeNumberFive.runtimeconfig.json
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberFive\QuestionThreeNumberFive\bin\Debug\net7.0\QuestionThreeNumberFive.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberFive\QuestionThreeNumberFive\bin\Debug\net7.0\QuestionThreeNumberFive.pdb
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberFive\QuestionThreeNumberFive\obj\Debug\net7.0\QuestionThreeNumberFive.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberFive\QuestionThreeNumberFive\obj\Debug\net7.0\QuestionThreeNumberFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberFive\QuestionThreeNumberFive\obj\Debug\net7.0\QuestionThreeNumberFive.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberFive\QuestionThreeNumberFive\obj\Debug\net7.0\QuestionThreeNumberFive.AssemblyInfo.cs
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberFive\QuestionThreeNumberFive\obj\Debug\net7.0\QuestionThreeNumberFive.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberFive\QuestionThreeNumberFive\obj\Debug\net7.0\QuestionThreeNumberFive.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberFive\QuestionThreeNumberFive\obj\Debug\net7.0\refint\QuestionThreeNumberFive.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberFive\QuestionThreeNumberFive\obj\Debug\net7.0\QuestionThreeNumberFive.pdb
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberFive\QuestionThreeNumberFive\obj\Debug\net7.0\QuestionThreeNumberFive.genruntimeconfig.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionThreeNumberFive\QuestionThreeNumberFive\obj\Debug\net7.0\ref\QuestionThreeNumberFive.dll

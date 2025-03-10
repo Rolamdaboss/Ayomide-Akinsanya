@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionOneNumberOne\QuestionOneNumberOne\bin\Debug\net7.0\QuestionOneNumberOne.exe
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionOneNumberOne\QuestionOneNumberOne\bin\Debug\net7.0\QuestionOneNumberOne.deps.json
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionOneNumberOne\QuestionOneNumberOne\bin\Debug\net7.0\QuestionOneNumberOne.runtimeconfig.json
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionOneNumberOne\QuestionOneNumberOne\bin\Debug\net7.0\QuestionOneNumberOne.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionOneNumberOne\QuestionOneNumberOne\bin\Debug\net7.0\QuestionOneNumberOne.pdb
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionOneNumberOne\QuestionOneNumberOne\obj\Debug\net7.0\QuestionOneNumberOne.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionOneNumberOne\QuestionOneNumberOne\obj\Debug\net7.0\QuestionOneNumberOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionOneNumberOne\QuestionOneNumberOne\obj\Debug\net7.0\QuestionOneNumberOne.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionOneNumberOne\QuestionOneNumberOne\obj\Debug\net7.0\QuestionOneNumberOne.AssemblyInfo.cs
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionOneNumberOne\QuestionOneNumberOne\obj\Debug\net7.0\QuestionOneNumberOne.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionOneNumberOne\QuestionOneNumberOne\obj\Debug\net7.0\QuestionOneNumberOne.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionOneNumberOne\QuestionOneNumberOne\obj\Debug\net7.0\refint\QuestionOneNumberOne.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionOneNumberOne\QuestionOneNumberOne\obj\Debug\net7.0\QuestionOneNumberOne.pdb
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionOneNumberOne\QuestionOneNumberOne\obj\Debug\net7.0\QuestionOneNumberOne.genruntimeconfig.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionOneNumberOne\QuestionOneNumberOne\obj\Debug\net7.0\ref\QuestionOneNumberOne.dll

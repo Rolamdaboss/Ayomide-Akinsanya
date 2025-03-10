@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberThree\QuestionFourNumberThree\bin\Debug\net7.0\QuestionFourNumberThree.exe
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberThree\QuestionFourNumberThree\bin\Debug\net7.0\QuestionFourNumberThree.deps.json
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberThree\QuestionFourNumberThree\bin\Debug\net7.0\QuestionFourNumberThree.runtimeconfig.json
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberThree\QuestionFourNumberThree\bin\Debug\net7.0\QuestionFourNumberThree.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberThree\QuestionFourNumberThree\bin\Debug\net7.0\QuestionFourNumberThree.pdb
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberThree\QuestionFourNumberThree\obj\Debug\net7.0\QuestionFourNumberThree.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberThree\QuestionFourNumberThree\obj\Debug\net7.0\QuestionFourNumberThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberThree\QuestionFourNumberThree\obj\Debug\net7.0\QuestionFourNumberThree.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberThree\QuestionFourNumberThree\obj\Debug\net7.0\QuestionFourNumberThree.AssemblyInfo.cs
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberThree\QuestionFourNumberThree\obj\Debug\net7.0\QuestionFourNumberThree.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberThree\QuestionFourNumberThree\obj\Debug\net7.0\QuestionFourNumberThree.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberThree\QuestionFourNumberThree\obj\Debug\net7.0\refint\QuestionFourNumberThree.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberThree\QuestionFourNumberThree\obj\Debug\net7.0\QuestionFourNumberThree.pdb
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberThree\QuestionFourNumberThree\obj\Debug\net7.0\QuestionFourNumberThree.genruntimeconfig.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\QuestionFourNumberThree\QuestionFourNumberThree\obj\Debug\net7.0\ref\QuestionFourNumberThree.dll
