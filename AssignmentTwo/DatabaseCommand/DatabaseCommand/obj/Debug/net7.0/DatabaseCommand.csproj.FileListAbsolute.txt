@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseCommand\DatabaseCommand\bin\Debug\net7.0\DatabaseCommand.exe
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseCommand\DatabaseCommand\bin\Debug\net7.0\DatabaseCommand.deps.json
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseCommand\DatabaseCommand\bin\Debug\net7.0\DatabaseCommand.runtimeconfig.json
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseCommand\DatabaseCommand\bin\Debug\net7.0\DatabaseCommand.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseCommand\DatabaseCommand\bin\Debug\net7.0\DatabaseCommand.pdb
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseCommand\DatabaseCommand\obj\Debug\net7.0\DatabaseCommand.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseCommand\DatabaseCommand\obj\Debug\net7.0\DatabaseCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseCommand\DatabaseCommand\obj\Debug\net7.0\DatabaseCommand.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseCommand\DatabaseCommand\obj\Debug\net7.0\DatabaseCommand.AssemblyInfo.cs
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseCommand\DatabaseCommand\obj\Debug\net7.0\DatabaseCommand.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseCommand\DatabaseCommand\obj\Debug\net7.0\DatabaseCommand.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseCommand\DatabaseCommand\obj\Debug\net7.0\refint\DatabaseCommand.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseCommand\DatabaseCommand\obj\Debug\net7.0\DatabaseCommand.pdb
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseCommand\DatabaseCommand\obj\Debug\net7.0\DatabaseCommand.genruntimeconfig.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseCommand\DatabaseCommand\obj\Debug\net7.0\ref\DatabaseCommand.dll

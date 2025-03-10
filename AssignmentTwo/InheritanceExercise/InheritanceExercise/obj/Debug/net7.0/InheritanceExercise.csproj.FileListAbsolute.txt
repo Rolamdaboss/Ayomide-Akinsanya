@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\OPTIMUS ETL\InheritanceExercise\InheritanceExercise\bin\Debug\net7.0\InheritanceExercise.exe
+C:\Users\HP\Desktop\OPTIMUS ETL\InheritanceExercise\InheritanceExercise\bin\Debug\net7.0\InheritanceExercise.deps.json
+C:\Users\HP\Desktop\OPTIMUS ETL\InheritanceExercise\InheritanceExercise\bin\Debug\net7.0\InheritanceExercise.runtimeconfig.json
+C:\Users\HP\Desktop\OPTIMUS ETL\InheritanceExercise\InheritanceExercise\bin\Debug\net7.0\InheritanceExercise.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\InheritanceExercise\InheritanceExercise\bin\Debug\net7.0\InheritanceExercise.pdb
+C:\Users\HP\Desktop\OPTIMUS ETL\InheritanceExercise\InheritanceExercise\obj\Debug\net7.0\InheritanceExercise.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\InheritanceExercise\InheritanceExercise\obj\Debug\net7.0\InheritanceExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\OPTIMUS ETL\InheritanceExercise\InheritanceExercise\obj\Debug\net7.0\InheritanceExercise.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\InheritanceExercise\InheritanceExercise\obj\Debug\net7.0\InheritanceExercise.AssemblyInfo.cs
+C:\Users\HP\Desktop\OPTIMUS ETL\InheritanceExercise\InheritanceExercise\obj\Debug\net7.0\InheritanceExercise.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\InheritanceExercise\InheritanceExercise\obj\Debug\net7.0\InheritanceExercise.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\InheritanceExercise\InheritanceExercise\obj\Debug\net7.0\refint\InheritanceExercise.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\InheritanceExercise\InheritanceExercise\obj\Debug\net7.0\InheritanceExercise.pdb
+C:\Users\HP\Desktop\OPTIMUS ETL\InheritanceExercise\InheritanceExercise\obj\Debug\net7.0\InheritanceExercise.genruntimeconfig.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\InheritanceExercise\InheritanceExercise\obj\Debug\net7.0\ref\InheritanceExercise.dll

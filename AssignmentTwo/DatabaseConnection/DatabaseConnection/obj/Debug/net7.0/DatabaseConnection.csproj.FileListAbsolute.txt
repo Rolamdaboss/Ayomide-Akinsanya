@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseConnection\DatabaseConnection\obj\Debug\net7.0\DatabaseConnection.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseConnection\DatabaseConnection\obj\Debug\net7.0\DatabaseConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseConnection\DatabaseConnection\obj\Debug\net7.0\DatabaseConnection.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseConnection\DatabaseConnection\obj\Debug\net7.0\DatabaseConnection.AssemblyInfo.cs
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseConnection\DatabaseConnection\obj\Debug\net7.0\DatabaseConnection.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseConnection\DatabaseConnection\bin\Debug\net7.0\DatabaseConnection.exe
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseConnection\DatabaseConnection\bin\Debug\net7.0\DatabaseConnection.deps.json
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseConnection\DatabaseConnection\bin\Debug\net7.0\DatabaseConnection.runtimeconfig.json
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseConnection\DatabaseConnection\bin\Debug\net7.0\DatabaseConnection.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseConnection\DatabaseConnection\bin\Debug\net7.0\DatabaseConnection.pdb
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseConnection\DatabaseConnection\obj\Debug\net7.0\DatabaseConnection.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseConnection\DatabaseConnection\obj\Debug\net7.0\refint\DatabaseConnection.dll
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseConnection\DatabaseConnection\obj\Debug\net7.0\DatabaseConnection.pdb
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseConnection\DatabaseConnection\obj\Debug\net7.0\DatabaseConnection.genruntimeconfig.cache
+C:\Users\HP\Desktop\OPTIMUS ETL\DatabaseConnection\DatabaseConnection\obj\Debug\net7.0\ref\DatabaseConnection.dll
